@@ -2,3 +2,5 @@ This repo contains all the developed files for front end and back end for fleet 
 these files will be synced as the development proceeds. in order to recreat the environment the backend requires node.js 
 exprress and mysql db. For front end need to install Android studio java and visual studio code (optional) ref how to 
 install flutter visual studio code environment in Flutter Apprentice book.
+
+Node Modules folder in the backend gets created as a part of node js build process no development files thee. 
